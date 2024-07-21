@@ -8,6 +8,7 @@ Python lib that allows to calculate area of geometric figures
 ## Using ##
 
 Using the library is as simple and convenient as possible:
+
 Install: 
     
     pip install geometryLibPy
